@@ -1,0 +1,23 @@
+Binaries
+DerivedDataCache
+Intermediate
+Saved
+.vscode
+.vs
+*.VC.db
+*.opensdf
+*.opendb
+*.sdf
+*.sln
+*.suo
+*.xcodeproj
+*.xcworkspace
+
+#DLSS Plugins
+Plugins/DLSS
+Plugins/DLSSMoviePipelineSupport
+Plugins/NIS
+Plugins/Streamline
+
+#FSR3
+Plugins/FSR3
